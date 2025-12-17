@@ -36,5 +36,5 @@ A full-stack e-commerce app with user authentication, products catalog, and shop
 
 ### Clone the project
 ```bash
-git clone <your-repo-url>
+git clone your-repo-url](https://github.com/mkhaleifa/Spiral-Sounds.git
 cd express-fullstack-app
